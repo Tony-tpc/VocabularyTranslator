@@ -9,7 +9,7 @@
 
 目前适用架构为Windows x64
 
-在解压后点开 `PyStand.exe` 即可使用
+在解压后点开 `SetUp.exe` 即可使用
 
 ## 代码指南
 
@@ -25,4 +25,7 @@
 
 并未使用pyinstaller，打包产生的文件过大，运行速度极慢
 
-使用了套壳python3.8架构
+使用了套壳python3.8架构，相关链接：
+ - [知乎：打包 PyQt 应用的最佳方案是什么？](https://www.zhihu.com/question/48776632/answer/2336654649)
+ - [Python Standalone Deploy Environment !!](https://github.com/skywind3000/PyStand)
+
